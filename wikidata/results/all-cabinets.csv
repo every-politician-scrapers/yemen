@@ -1,1 +1,15 @@
-ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q28495534,Q28495534,1990-05-22,11,,,1994-05-09,11,,,,,Q28495531,Q28495531,,,,
+,Q28495531,Q28495531,1994-05-10,11,,,1994-10-06,11,,,Q28495534,Q28495534,Q28495542,Q28495542,,,,
+,Q28495542,Q28495542,1994-10-07,11,,,1997-05-14,11,,,Q28495531,Q28495531,Q28495544,Q28495544,,,,
+,Q28495544,Q28495544,1997-09-15,11,,,1998-05-15,11,,,Q28495542,Q28495542,Q28495522,Q28495522,,,,
+,Q28495522,Q28495522,1998-04-30,11,,,2001-03-31,11,,,Q28495544,Q28495544,,,,,,
+,Q16128234,Q16128234,2001-04-04,11,,,2003-05-16,11,,,,,,,,,,
+,Q16128238,Q16128238,2003-05-17,11,,,2007-04-05,11,,,,,,,,,,
+,Q12208543,Q12208543,2007-03-31,11,,,2011-03-20,11,,,,,,,,,,
+,Q12208538,Q12208538,2012-01-03,11,,,2014-09-21,11,,,,,Q20401330,Q20401330,,,,
+,Q20401330,Q20401330,2014-10-13,11,,,2015-01-22,11,,,Q12208538,Q12208538,Q22931447,Q22931447,,,,
+,Q22931447,Q22931447,2015-04-12,11,,,2016-04-03,11,,,Q20401330,Q20401330,Q23816934,Ahmed ben Dagher Cabinet,,,,
+,Q23816934,Ahmed ben Dagher Cabinet,2016-04-04,11,,,2018-10-15,11,,,Q22931447,Q22931447,Q58350266,Saïd Cabinet,,,,
+,Q58350266,Saïd Cabinet,2018-10-15,11,,,2020-12-26,11,,,Q23816934,Ahmed ben Dagher Cabinet,Q104601392,Second Saeed Cabinet,,,,
+,Q104601392,Second Saeed Cabinet,2020-12-18,11,,,,,,,Q58350266,Saïd Cabinet,,,,,,
