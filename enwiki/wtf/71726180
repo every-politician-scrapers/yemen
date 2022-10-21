@@ -1,0 +1,240 @@
+{
+  "title": "Sultan al-Barakani",
+  "pageID": 71726180,
+  "categories": [
+    "Living people",
+    "Speakers of the House of Representatives (Yemen)",
+    "Yemeni politicians",
+    "People from Taiz Governorate",
+    "General People's Congress (Yemen) politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sultan Saeed Abdullah al-Barakani (سلطان سعيد عبدالله البركاني; born 1956) is a Yemeni politician and the current speaker of the Yemeni House of Representatives since 2019.",
+              "links": [
+                {
+                  "text": "Yemeni",
+                  "type": "internal",
+                  "page": "Yemen"
+                },
+                {
+                  "text": "Yemeni House of Representatives",
+                  "type": "internal",
+                  "page": "House of Representatives (Yemen)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Sultan Saeed Abdullah al-Barakani ("
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Al-Barakani was born in 1956 in Al-Maafer District, Taiz Governorate.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Al-Maafer District"
+                },
+                {
+                  "text": "Taiz",
+                  "type": "internal",
+                  "page": "Taiz Governorate"
+                }
+              ]
+            },
+            {
+              "text": "He is a GPC MP, and was elected as new speaker of the House of Representatives during a session held in Seiyun on 13 April 2019.",
+              "links": [
+                {
+                  "text": "GPC",
+                  "type": "internal",
+                  "page": "General People's Congress (Yemen)"
+                },
+                {
+                  "text": "House of Representatives",
+                  "type": "internal",
+                  "page": "House of Representatives (Yemen)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Seiyun"
+                }
+              ]
+            },
+            {
+              "text": "This was the first session for the parliament loyal to the internationally recognized government of Yemen since the Yemen civil war started in 2015.",
+              "links": [
+                {
+                  "text": "the internationally recognized government of Yemen",
+                  "type": "internal",
+                  "page": "Cabinet of Yemen"
+                },
+                {
+                  "text": "Yemen civil war",
+                  "type": "internal",
+                  "page": "Yemeni Civil War (2014–present)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "October 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "description": "Yemeni politician",
+          "template": "short description"
+        },
+        {
+          "year": "1956",
+          "month": "7",
+          "day": "27",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Sultan al-Barakani"
+          },
+          "office": {
+            "text": "Speaker of the Yemeni House of Representatives",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yemeni House of Representatives"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "13 April 2019"
+          },
+          "birth_date": {
+            "text": "July 27, 1956"
+          },
+          "birth_place": {
+            "text": "Al-Maafer District, Taiz Governorate",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Al-Maafer District"
+              },
+              {
+                "type": "internal",
+                "page": "Taiz Governorate"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Yemeni",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yemeni"
+              }
+            ]
+          },
+          "party": {
+            "text": "General People's Congress (Yemen)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "General People's Congress (Yemen)"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Yahya Ali al-Raee",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yahya Ali al-Raee"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "13 April 2019",
+          "title": "Parliaments elects new speaker, vice speakers",
+          "url": "https://www.sabanew.net/viewstory/48220",
+          "access-date": "14 September 2022",
+          "website": "وكالة الانباء اليمنية Saba Net :: سبأ نت",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "الشيخ: سلطان سعيد البركاني",
+          "trans-title": "Sheikh Sultan Saeed al-Barakani",
+          "website": "Parliament of Yemen",
+          "url": "https://parliament-ye.com/The-President",
+          "access-date": "4 October 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "اليمني",
+          "first": "المرصد",
+          "title": "سلطان سعيد عبدالله البركاني",
+          "trans-title": "Parliament / members of the House of Representatives",
+          "publisher": "Yemeni Center for Public Opinion",
+          "url": "http://www.ypwatch.org/members.php?go=member&id=64",
+          "access-date": "14 September 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "14 April 2019",
+          "title": "Yemeni Parliament second session discusses public budget",
+          "url": "https://debriefer.net/en/news-7897.html",
+          "access-date": "14 September 2022",
+          "website": "debriefer.net",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Al-Ahmadi",
+          "first": "Adel",
+          "date": "13 April 2019",
+          "title": "سلطان البركاني... من صقور حزب صالح إلى رئاسة البرلمان اليمني",
+          "trans-title": "Sultan al-Barakani... From GPC Hawks to the Speaker of the Yemeni Parliament",
+          "url": "https://www.alaraby.co.uk/%D8%B3%D9%84%D8%B7%D8%A7%D9%86-%D8%A7%D9%84%D8%A8%D8%B1%D9%83%D8%A7%D9%86%D9%8A-%D9%85%D9%86-%D8%B5%D9%82%D9%88%D8%B1-%D8%A7%D9%84%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%A5%D9%84%D9%89-%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%8A%D9%85%D9%86%D9%8A",
+          "access-date": "4 October 2022",
+          "website": "The New Arab",
+          "language": "ar",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "yemen-politician-stub"
+        }
+      ]
+    }
+  ]
+}
