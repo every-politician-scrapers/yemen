@@ -124,6 +124,11 @@
           "day": "8",
           "df": "y",
           "template": "birth date and age"
+        },
+        {
+          "date": "October 2022",
+          "reason": "No information after 2017",
+          "template": "update"
         }
       ],
       "infoboxes": [
@@ -333,6 +338,69 @@
       ]
     },
     {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Bin Habtour was born in 1955 in the Shabwah Governorate, part of what was then the British Aden Protectorate.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Shabwah Governorate"
+                },
+                {
+                  "text": "British",
+                  "type": "internal",
+                  "page": "United Kingdom"
+                },
+                {
+                  "type": "internal",
+                  "page": "Aden Protectorate"
+                }
+              ]
+            },
+            {
+              "text": "He earned a bachelor's degree in economics and administration from the University of Aden in 1981, a master's degree in economics from the Berlin School of Economics and Law in 1988, and a doctorate from Leipzig University in 1992.",
+              "links": [
+                {
+                  "text": "bachelor's degree",
+                  "type": "internal",
+                  "page": "bachelor's degree"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Aden"
+                },
+                {
+                  "text": "master's degree",
+                  "type": "internal",
+                  "page": "master's degree"
+                },
+                {
+                  "type": "internal",
+                  "page": "Berlin School of Economics and Law"
+                },
+                {
+                  "text": "doctorate",
+                  "type": "internal",
+                  "page": "doctorate"
+                },
+                {
+                  "type": "internal",
+                  "page": "Leipzig University"
+                }
+              ]
+            },
+            {
+              "text": "He is married with five children."
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "Professional career",
       "depth": 0,
       "paragraphs": [
@@ -388,7 +456,7 @@
               "text": "President Hadi appointed bin Habtour as Governor of Aden by decree on 22 December 2014."
             },
             {
-              "text": "He was sworn three days later."
+              "text": "He was sworn in three days later."
             },
             {
               "text": "As Aden's new governor, he confronted the unrest created by the Houthi takeover in 2015, including a pro-separatist uprising in Aden seaport.",
@@ -615,69 +683,6 @@
           "date": "6 April 2017",
           "template": "citation",
           "type": "web"
-        }
-      ]
-    },
-    {
-      "title": "Personal life",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Bin Habtour was born in 1955 in the Shabwah Governorate, part of what was then the British Aden Protectorate.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Shabwah Governorate"
-                },
-                {
-                  "text": "British",
-                  "type": "internal",
-                  "page": "United Kingdom"
-                },
-                {
-                  "type": "internal",
-                  "page": "Aden Protectorate"
-                }
-              ]
-            },
-            {
-              "text": "He earned a bachelor's degree in economics and administration from the University of Aden in 1981, a master's degree in economics from the Berlin School of Economics and Law in 1988, and a doctorate from Leipzig University in 1992.",
-              "links": [
-                {
-                  "text": "bachelor's degree",
-                  "type": "internal",
-                  "page": "bachelor's degree"
-                },
-                {
-                  "type": "internal",
-                  "page": "University of Aden"
-                },
-                {
-                  "text": "master's degree",
-                  "type": "internal",
-                  "page": "master's degree"
-                },
-                {
-                  "type": "internal",
-                  "page": "Berlin School of Economics and Law"
-                },
-                {
-                  "text": "doctorate",
-                  "type": "internal",
-                  "page": "doctorate"
-                },
-                {
-                  "type": "internal",
-                  "page": "Leipzig University"
-                }
-              ]
-            },
-            {
-              "text": "He is married with five children."
-            }
-          ]
         }
       ]
     },
