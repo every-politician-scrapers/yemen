@@ -1,0 +1,17 @@
+{
+    "jurisdiction": {
+        "name": "Yemen",
+        "id": "Q805"
+    },
+    "cabinet": {
+      "id":     "Q27943161",
+      "start":  "2016-10-04",
+      "parent": "Q5015574"
+    },
+    "reference": {
+        "P4656": "https://en.wikipedia.org/wiki/Supreme_Political_Council"
+    },
+    "person_description": {
+        "en": "Yemeni politician"
+    }
+}

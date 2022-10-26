@@ -1,0 +1,19 @@
+{
+    "jurisdiction": {
+        "name": "Yemen",
+        "id": "Q805"
+    },
+    "cabinet": {
+      "id":     "Q104601392",
+      "start":  "2022-07-29",
+      "parent": "Q5015574"
+    },
+    "reference": {
+        "P4656": "https://fr.wikipedia.org/wiki/Gouvernement_Ma%C3%AFn_Abdelmalek_Sa%C3%AFd_(2)"
+    },
+    "lang": "fr",
+    "current_only": "true",
+    "person_description": {
+        "en": "Yemeni politician"
+    }
+}
