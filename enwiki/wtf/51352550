@@ -1,0 +1,281 @@
+{
+  "title": "Talal Aklan",
+  "pageID": 51352550,
+  "categories": [
+    "Yemeni politicians",
+    "Government ministers of Yemen",
+    "Living people",
+    "Prime Ministers of Yemen",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Talal Abdulkarim Aklan (طلال عبدالکریم عقلان) is a Yemeni politician who was the acting Prime Minister of the Houthis government",
+              "links": [
+                {
+                  "text": "Yemeni",
+                  "type": "internal",
+                  "page": "Yemen"
+                },
+                {
+                  "text": "Prime Minister",
+                  "type": "internal",
+                  "page": "Prime Minister of Yemen",
+                  "anchor": "Houthis takeover of Yemen (2015–present)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Houthis"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Talal Abdulkarim Aklan"
+                ]
+              }
+            },
+            {
+              "text": "until 4 October 2016."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Between 2015 and 2016, he was a member of the Supreme Revolutionary Committee.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Supreme Revolutionary Committee"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Yemeni politician",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "date": "September 2022",
+          "template": "cleanup bare urls"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Talal Abdulkarim Aklan"
+          },
+          "office": {
+            "text": "Minister of Civil Service and Insurance\nDisputed"
+          },
+          "president": {
+            "text": "Saleh Ali al-Sammad",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Saleh Ali al-Sammad"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Abdel-Aziz bin Habtour",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abdel-Aziz bin Habtour"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "28 November 2016"
+          },
+          "office1": {
+            "text": "Prime Minister of Yemen\nDisputed, acting",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Prime Minister of Yemen"
+              }
+            ]
+          },
+          "president1": {
+            "text": "Mohammed Ali al-Houthi\nSaleh Ali al-Sammad",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mohammed Ali al-Houthi"
+              },
+              {
+                "type": "internal",
+                "page": "Saleh Ali al-Sammad"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "1 March 2016"
+          },
+          "term_end1": {
+            "text": "4 October 2016*"
+          },
+          "predecessor1": {
+            "text": "Khaled Bahah (Hadi government, Aden)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Khaled Bahah"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Abdel-Aziz bin Habtour",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abdel-Aziz bin Habtour"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Member of the Revolutionary Committee",
+            "links": [
+              {
+                "text": "Revolutionary Committee",
+                "type": "internal",
+                "page": "Supreme Revolutionary Committee"
+              }
+            ]
+          },
+          "president2": {
+            "text": "Mohammed Ali al-Houthi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mohammed Ali al-Houthi"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "6 February 2015"
+          },
+          "party": {
+            "text": "Yemeni Socialist Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yemeni Socialist Party"
+              }
+            ]
+          },
+          "allegiance": {
+            "text": "Houthis",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Houthis"
+              }
+            ]
+          },
+          "battles": {
+            "text": "Houthi insurgency in Yemen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Houthi insurgency in Yemen"
+              }
+            ]
+          },
+          "footnotes": {
+            "text": "Aklan's term has been disputed by Khaled Bahah and then Ahmed Obeid bin Daghr.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Khaled Bahah"
+              },
+              {
+                "type": "internal",
+                "page": "Ahmed Obeid bin Daghr"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://gulfnews.com/news/gulf/yemen/un-body-accused-of-serving-al-houthi-interests-1.1678888",
+          "title": "UN body accused of serving al Houthi interests",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.saba.ye/en/news429317.htm",
+          "title": "Acting PM inaugurates transition to Saba's new website",
+          "date": "30 May 2016",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Countries YZ",
+          "url": "http://rulers.org/rulyz.html#yemen",
+          "website": "Rulers",
+          "accessdate": "22 August 2016",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "date": "April 2020",
+          "template": "citation needed"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Khaled Bahah",
+          "template": "s-bef"
+        },
+        {
+          "title": "Prime Minister of Yemen\nDisputed, acting",
+          "years": "2016",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Abdel-Aziz bin Habtour",
+          "template": "s-aft"
+        },
+        {
+          "template": "yemenpms"
+        },
+        {
+          "template": "yemen-politician-stub"
+        }
+      ]
+    }
+  ]
+}

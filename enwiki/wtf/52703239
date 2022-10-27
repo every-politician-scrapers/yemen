@@ -1,0 +1,175 @@
+{
+  "title": "Mohamed al-Atifi",
+  "pageID": 52703239,
+  "categories": [
+    "Living people",
+    "Yemeni politicians",
+    "Year of birth missing (living people)",
+    "People of the Yemeni Civil War (2014–present)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mohamed al-Atifi is the Defense minister of the Houthi government from 28 November 2016.",
+              "formatting": {
+                "bold": [
+                  "Mohamed al-Atifi"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Yemeni Minister of Defence",
+          "template": "short description"
+        },
+        {
+          "date": "June 2017",
+          "template": "one source"
+        },
+        {
+          "list": [
+            "Yemeni Republican Guard Flag.svg"
+          ],
+          "template": "flagicon image"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Mohamed al-Atifi"
+          },
+          "office": {
+            "text": "Minister of Defense of Yemen\nDisputed",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yemen"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "28 November 2016*"
+          },
+          "president": {
+            "text": "Saleh Ali al-Sammad (President of the Supreme Political Council of Yemen)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Saleh Ali al-Sammad"
+              },
+              {
+                "type": "internal",
+                "page": "Supreme Political Council"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Abdel-Aziz bin Habtour",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abdel-Aziz bin Habtour"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Hussein Khairan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hussein Khairan"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Yemeni",
+            "links": [
+              {
+                "text": "Yemeni",
+                "type": "internal",
+                "page": "Yemen"
+              }
+            ]
+          },
+          "allegiance": {
+            "text": "Houthi movement",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Houthi movement"
+              }
+            ]
+          },
+          "rank": {
+            "text": "Major general",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Major general"
+              }
+            ]
+          },
+          "commands": {
+            "text": "Republican Guard",
+            "links": [
+              {
+                "text": "Republican Guard",
+                "type": "internal",
+                "page": "Republican Guard (Yemen)"
+              }
+            ]
+          },
+          "footnotes": {
+            "text": "Atifi's term has been disputed by Mahmoud al-Subaihi.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mahmoud al-Subaihi"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.sabanews.net/en/news448091.htm",
+          "title": "Saba Net - Yemen news agency",
+          "publisher": "Sabanews.net",
+          "accessdate": "2017-06-07",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "list": [
+            "Biography",
+            "Politics"
+          ],
+          "template": "portal"
+        },
+        {
+          "template": "yemeni civil war (2015)"
+        },
+        {
+          "template": "yemen-politician-stub"
+        }
+      ]
+    }
+  ]
+}

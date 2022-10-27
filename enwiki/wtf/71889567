@@ -1,0 +1,150 @@
+{
+  "title": "Khaled al-Wesabi",
+  "pageID": 71889567,
+  "categories": [
+    "Government ministers of Yemen",
+    "Higher education ministers of Yemen"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Khaled Ahmed Saad al-Wesabi (خالد أحمد سعد الوصابي, born 1973 in Dhamar) is a Yemeni politician and current minister of Higher Education and Scientific Research and Technical Education and Vocational in the cabinet of Yemen since 18 December 2020.",
+              "links": [
+                {
+                  "text": "Dhamar",
+                  "type": "internal",
+                  "page": "Dhamar Governorate"
+                },
+                {
+                  "text": "Yemeni",
+                  "type": "internal",
+                  "page": "Yemen"
+                },
+                {
+                  "text": "Higher Education and Scientific Research",
+                  "type": "internal",
+                  "page": "Ministry of Higher Education and Scientific Research (Yemen)"
+                },
+                {
+                  "text": "cabinet of Yemen",
+                  "type": "internal",
+                  "page": "cabinet of Yemen"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Khaled Ahmed Saad al-Wesabi"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "October 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "description": "Yemeni politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Khaled al-Wesabi"
+          },
+          "office": {
+            "text": "Minister of Higher Education",
+            "links": [
+              {
+                "text": "Minister of Higher Education",
+                "type": "internal",
+                "page": "Ministry of Higher Education and Scientific Research (Yemen)"
+              }
+            ]
+          },
+          "preceded": {
+            "text": "Hussein Basalamh"
+          },
+          "president": {
+            "text": "Abdrabbuh Mansur Hadi, Rashad al-Alimi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abdrabbuh Mansur Hadi"
+              },
+              {
+                "type": "internal",
+                "page": "Rashad al-Alimi"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "18 December 2020"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "قرار جمهوري بتشكيل الحكومة وتسمية أعضاءها",
+          "url": "http://sabanew.net/viewstory/69728",
+          "access-date": "1 October 2022",
+          "website": "وكالة الانباء اليمنية Saba Net :: سبأ نت",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Cabinet of Yemen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cabinet of Yemen"
+              }
+            ]
+          },
+          {
+            "text": "Politics of Yemen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politics of Yemen"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "yemen-politician-stub"
+        }
+      ]
+    }
+  ]
+}
