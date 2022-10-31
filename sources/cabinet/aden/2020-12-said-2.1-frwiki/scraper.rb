@@ -28,7 +28,7 @@ class MemberList
     end
 
     field :position do
-      tds[0].xpath('.//text()').map(&:text).map(&:tidy).reject(&:empty).join(' ').tidy
+      tds[0].xpath('.//text()').map(&:text).map(&:tidy).reject(&:empty?).join(' ').tidy
     end
 
     field :startDate do
