@@ -6,7 +6,7 @@ module.exports = function () {
   let fromd    = `"${meta.cabinet.start}T00:00:00Z"^^xsd:dateTime`
   let until    = meta.cabinet.end  ? `"${meta.cabinet.end}T00:00:00Z"^^xsd:dateTime` : "NOW()"
   let lang     = meta.lang || 'en'
-  let curronly = meta.current_only ? "MINUS { ?ps pq:P582 [] }" : ""
+  let curronly = meta.current_only ? "FILTER (?endDate = '')" : ""
 
   return `SELECT DISTINCT ?item ?itemLabel ?position ?positionLabel
                  ?startDate ?endDate ?source (STRAFTER(STR(?ps), STR(wds:)) AS ?psid)
@@ -23,7 +23,6 @@ module.exports = function () {
           OPTIONAL { ?item p:P570 [ a wikibase:BestRank ; psv:P570 ?dod ] }
           OPTIONAL { ?ps pqv:P580 ?p39start }
           OPTIONAL { ?ps pqv:P582 ?p39end }
-          ${curronly}
           OPTIONAL {
             ?ps pq:P5054 ?cabinet .
             OPTIONAL { ?cabinet p:P571 [ a wikibase:BestRank ; psv:P571 ?cabinetInception ] }
@@ -31,6 +30,7 @@ module.exports = function () {
             OPTIONAL { ?cabinet p:P576 [ a wikibase:BestRank ; psv:P576 ?cabinetAbolished ] }
             OPTIONAL { ?cabinet p:P582 [ a wikibase:BestRank ; psv:P582 ?cabinetEnd ] }
           }
+          MINUS { ?ps pq:P5054/wdt:P31/wdt:P279* wd:Q26244385 } # Not members of the competing government
           wd:Q18354756 p:P580/psv:P580 ?farFuture .
 
           BIND(COALESCE(?p39start, ?cabinetInception, ?cabinetStart) AS ?startNode)
@@ -67,6 +67,7 @@ module.exports = function () {
           ""
         ) AS ?endDate
       )
+      ${curronly}
 
       OPTIONAL {
         ?ps prov:wasDerivedFrom ?ref .

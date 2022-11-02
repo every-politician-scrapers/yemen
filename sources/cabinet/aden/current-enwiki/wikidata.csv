@@ -1,19 +1,38 @@
 item,itemLabel,position,positionLabel,startDate,endDate,source,psid
-Q104601317,,Q28492150,Minister of Endowments and Guidance,2020-12-26,,,Q104601317-5365165d-406c-b736-d630-81418fe663cd
-Q13360057,Nabil Hasan al-Faqih,Q28492175,Minister of Civil Service and Insurance,2018-08-08,2020-12-26,,Q13360057-2a7d6cc2-46e0-ea55-b517-3be4eee5049a
-Q16119688,Ahmad Awad Bin Mubarak,Q18345286,Minister of Foreign Affairs of Yemen,2020-12-18,,,Q16119688-D796F264-0CD1-4740-88DE-36EA6234B5FF
-Q16119932,Abdo Mohammed Abdullah Beshr,Q28492170,Minister of Industry and Trade,2016-11-28,,,Q16119932-6bd06a72-47e3-765e-c887-af071072e3d5
-Q16127851,Moammar Al-Eryani,Q28492156,Minister of Information,2016-09-18,2020-12-26,,Q16127851-82d7e4e9-4c2d-b06b-4434-723b8fde23c1
-Q16187308,Hisham Sharaf,Q18345286,Minister of Foreign Affairs of Yemen,2016-11-28,,,Q16187308-C4347B5A-01B5-47E8-A7EB-7C25A4230516
-Q21680111,Nayef al-Bakri,Q28492158,Minister of Youth and Sports,2015-09-14,2020-12-26,,Q21680111-2aa1a79e-4cb4-56e0-9e1b-3fdc0c205de8
-Q22690657,Waed Badhib,Q28492160,Minister of Planning and International Cooperation,2020-12-18,,,Q22690657-296746d0-4847-bdb4-8a92-da46d1b6f9c5
-Q4539761,Yahia Badreddin al-Houthi,Q28492165,Minister of Education,2016-11-28,,,Q4539761-20c2961a-4158-fc21-b225-e4ddcb0ba930
-Q55436193,Ahmed bin ahmed AL-Maysari,Q28481301,Minister of Interior of Yemen,2017-12-25,2020-12-26,,Q55436193-383da39b-4ab2-08e5-2415-50625ff21e68
-Q5627924,Mohamed Qubaty,Q28492159,Minister of Tourism,2016-09-18,,,Q5627924-7820B73C-E881-4757-B64D-57A15CECDC7D
-Q59246326,Najeeb Mansour Hameed Al Auj,Q28492151,Minister of Communication of Yemen,2020-12-18,,,Q59246326-2dd971d5-40a9-18e2-084c-806449890931
-Q59260881,Ali Haitham Ali Abdullah,Q28492181,Minister of Justice,2018-11-27,2020-12-26,,Q59260881-1104F4B7-7660-481D-B0FA-BB9CF65D14FB
-Q59260916,Mohammed Abdullah Saleh Nasser Al - Anani,Q28492184,Minister of Electricity and Energy,2018-11-27,2020-12-26,,Q59260916-2A914994-EAEF-426F-A9AF-B1DD2C478A88
-Q59334777,Mohammed Mohsen Askar,Q28492163,Minister of Human Rights,2017-04-27,2020-12-26,,Q59334777-8B8E4C16-D1B8-4D82-8F91-D4530DE72601
-Q59334782,Nasser Mohsen Baoum,Q28492164,Minister of Public Health and Population,2015-09-14,2020-12-26,,Q59334782-C7D65E91-CF8C-45BD-94F7-E2EE65EF2621
-Q68837007,Salem Saleh Salem bin brek,Q28492161,Minister of Finance,2019-09-19,2020-12-26,,Q68837007-ada0f347-4f57-7ab8-5b64-f81f26d7ce54
-Q73405138,Saleh Algabwni,Q28492183,Minister of Transport,2017-12-24,2020-12-26,,Q73405138-50e3e61b-4275-296d-a0fe-03e0e9fb734a
+Q104601317,Mohamed Ahmed Shabiba,Q28492150,Minister of Religious Endowments and Guidance,2020-12-26,,https://en.wikipedia.org/wiki/Cabinet_of_Yemen,Q104601317-5365165d-406c-b736-d630-81418fe663cd
+Q113407477,Mohsen al-Daeri,Q24810166,Minister of Defense,2022-07-28,,https://en.wikipedia.org/wiki/Cabinet_of_Yemen,Q113407477-E855DB00-046B-49C2-8439-169B4B7ECB08
+Q113574719,Ibrahim Ali Ahmed Haidan,Q28481301,Minister of Interior,2020-12-17,,https://en.wikipedia.org/wiki/Cabinet_of_Yemen,Q113574719-48DE5D7F-00B5-4445-9D29-A51B361C4983
+Q114350102,Khaled Al-Wasabi,Q28492154,Minister of Technical Education and Vocational,2020-12-17,,https://en.wikipedia.org/wiki/Cabinet_of_Yemen,Q114350102-01BF64A1-F9E2-4716-A6A5-4E842E0658EF
+Q114350102,Khaled Al-Wasabi,Q28492172,Minister of Higher Education and Scientific Research,2020-12-17,,https://en.wikipedia.org/wiki/Cabinet_of_Yemen,Q114350102-1CC9F355-244B-463B-8CC3-3DF4B945CB5A
+Q114869418,Abdel Nasser Al-Wali,Q28492175,Minister of Civil Service and Insurance,2020-12-17,,https://en.wikipedia.org/wiki/Cabinet_of_Yemen,Q114869418-2FEECF0A-2D65-44A8-BC4B-278B53D49E86
+Q114869638,Ahmed Mohamed Omar Orman,Q28492163,Minister of Human Rights,2017-04-27,,https://en.wikipedia.org/wiki/Cabinet_of_Yemen,Q114869638-2600075D-BF15-4E59-85D7-D26150179667
+Q114869638,Ahmed Mohamed Omar Orman,Q28492178,Minister of Legal Affairs,2020-12-17,,https://en.wikipedia.org/wiki/Cabinet_of_Yemen,Q114869638-466681FA-A86F-44CE-B60E-74D13D87A9BC
+Q114869654,Hussein Abdul Rahman,Q28492152,Minister of Local Administration,2020-12-17,,https://en.wikipedia.org/wiki/Cabinet_of_Yemen,Q114869654-DD9E71AD-4FD1-4877-A8E5-45C30A5D42D7
+Q114869664,Mohamed al-Ashwal,Q28492170,Minister of Industry and Trade,2020-12-17,,https://en.wikipedia.org/wiki/Cabinet_of_Yemen,Q114869664-61A6D013-A179-4C11-BE46-5C2CB0DEA108
+Q114869699,Muhammad Al-Zaouri,Q28492173,Minister of Social Affairs and Labour,2020-12-17,,https://en.wikipedia.org/wiki/Cabinet_of_Yemen,Q114869699-90E361A0-8E1C-4C8F-AB09-72887BE6431C
+Q114869710,Qassem Mohammad Qassem Bahaibah,Q28492164,Minister of Health,2020-12-17,,https://en.wikipedia.org/wiki/Cabinet_of_Yemen,Q114869710-B3DE8E04-C753-42C4-9D92-1D6E05668017
+Q114869724,Saeed Sulaiman al-Shamasi,Q28492179,Minister of Oil and Minerals,2022-07-28,,https://en.wikipedia.org/wiki/Cabinet_of_Yemen,Q114869724-3E7302A9-688F-4A36-A6AB-6716D3D81718
+Q114869735,Salem Abdullah Issa Al-Soqotri,Q28492157,Minister of Fisheries Wealth,2020-12-17,,https://en.wikipedia.org/wiki/Cabinet_of_Yemen,Q114869735-8E71D130-94B1-43C3-87A3-DA251FD9E972
+Q114869735,Salem Abdullah Issa Al-Soqotri,Q28492155,Minister of Agriculture and Irrigation,2020-12-17,,https://en.wikipedia.org/wiki/Cabinet_of_Yemen,Q114869735-A79FBDF5-B971-4FEB-AE6E-4B7AE51E27DD
+Q114869756,Tareq Salem al-Abkari,Q28492165,Minister of Education,2020-12-17,,https://en.wikipedia.org/wiki/Cabinet_of_Yemen,Q114869756-A18C28AC-0BA6-4979-A061-922E04F3CAD3
+Q114869762,Tawfiq al-Sharjabi,Q28492167,Minister of Water and Environment,2020-12-17,,https://en.wikipedia.org/wiki/Cabinet_of_Yemen,Q114869762-EDDA047D-4C83-4FDC-892E-D49D2CC3EC23
+Q114869768,Abd Rabbo Saleh Aslami,Q114869363,Minister of State,2016-09-18,,https://en.wikipedia.org/wiki/Cabinet_of_Yemen,Q114869768-52887998-957D-4A69-A193-8B001DEBEB80
+Q114869769,Abdel Salam Hamid,Q28492183,Minister of Transport,2020-12-17,,https://en.wikipedia.org/wiki/Cabinet_of_Yemen,Q114869769-29438C86-0D9B-427F-B61F-13B8723FECBB
+Q114869770,Abdelghani Jamil,Q114869362,Minister of Sana’a Secretariat,2016-09-18,,https://en.wikipedia.org/wiki/Cabinet_of_Yemen,Q114869770-C014A069-E499-47A3-A4CC-9AD310B4FFDE
+Q114869771,Badr al-Ardah,Q28492181,Minister of Justice,2020-12-17,,https://en.wikipedia.org/wiki/Cabinet_of_Yemen,Q114869771-E5B5D1CC-3629-4E33-B2CA-EAF1B8698F3D
+Q114869772,Mana'a Saleh Yaslam,Q28492184,Minister of Electricity and Energy,2022-07-28,,https://en.wikipedia.org/wiki/Cabinet_of_Yemen,Q114869772-686132C9-AC0D-4D3B-B669-19458147F592
+Q114869773,Mohammed Abdallah Kouddah,Q114869363,Minister of State,2017-11-27,,https://en.wikipedia.org/wiki/Cabinet_of_Yemen,Q114869773-97FE4916-AB89-40CE-95AE-D37722510320
+Q114869774,Mohammed Moqbel al-Himyari,Q28492180,Minister of State for Parliamentary Affairs and the Shura Council,2017-12-25,,https://en.wikipedia.org/wiki/Cabinet_of_Yemen,Q114869774-3B742F14-8E95-4D11-9214-4375995CDFDF
+Q114869775,Salem Mohamed al-Harayzi,Q28492149,Minister of Public Works and Highways,2022-07-28,,https://en.wikipedia.org/wiki/Cabinet_of_Yemen,Q114869775-E2D4B300-2297-49D3-8F20-A034ED5B54B5
+Q16119688,Ahmad Awad bin Mubarak,Q28492176,Minister of Expatriates Affairs,2020-12-26,,https://en.wikipedia.org/wiki/Cabinet_of_Yemen,Q16119688-97ABF99B-528D-44C2-8FE2-977F243486E8
+Q16119688,Ahmad Awad bin Mubarak,Q18345286,Minister of Foreign Affairs,2020-12-18,,https://en.wikipedia.org/wiki/Cabinet_of_Yemen,Q16119688-D796F264-0CD1-4740-88DE-36EA6234B5FF
+Q16127851,Muammar al-Iryani,Q28492162,Minister of Culture,2020-12-17,,https://en.wikipedia.org/wiki/Cabinet_of_Yemen,Q16127851-05B82007-7808-437C-941A-039B4C3A14C2
+Q16127851,Muammar al-Iryani,Q28492156,Minister of Information,2016-09-18,,https://en.wikipedia.org/wiki/Cabinet_of_Yemen,Q16127851-79E2F33C-E71F-4BA5-8827-1872CB6CDBE1
+Q16127851,Muammar al-Iryani,Q28492159,Minister of Tourism,2020-12-17,,https://en.wikipedia.org/wiki/Cabinet_of_Yemen,Q16127851-CEEB9612-2395-4C9B-B406-949BF25EB563
+Q21680111,Nayef al-Bakri,Q28492158,Minister of Youth and Sport,2015-09-15,,https://en.wikipedia.org/wiki/Cabinet_of_Yemen,Q21680111-A07252DF-9824-46E3-9024-039A198C5AE2
+Q22690657,Waed Abdullah Badhib,Q28492160,Minister of Planning and International Cooperation,2020-12-18,,https://en.wikipedia.org/wiki/Cabinet_of_Yemen,Q22690657-296746d0-4847-bdb4-8a92-da46d1b6f9c5
+Q57373157,Maeen Abdulmalik Saeed,Q1192903,Prime Minister,2020-12-18,,https://en.wikipedia.org/wiki/Cabinet_of_Yemen,Q57373157-30f44809-435d-587f-e668-fdbe9debbbd3
+Q59246326,Najib al-Awj,Q28492151,Minister of Telecommunications & Information Technology,2020-12-18,,https://en.wikipedia.org/wiki/Cabinet_of_Yemen,Q59246326-2dd971d5-40a9-18e2-084c-806449890931
+Q59246326,Najib Mansour Al-Awj,Q114869364,Minister of State for National Dialogue,2018-11-27,,https://en.wikipedia.org/wiki/Cabinet_of_Yemen,Q59246326-3F3B3A11-30F3-4B87-93CF-C8419D79A227
+Q59334780,Marwan Ahmed Damaj,Q28492162,Minister of Culture,2020-12-26,,,Q59334780-85E48583-AE40-4332-8A8D-CE95A67204B7
+Q68837007,Salem Saleh Bin Braik,Q28492161,Minister of Finance,2019-09-19,,https://en.wikipedia.org/wiki/Cabinet_of_Yemen,Q68837007-9E32BD0D-9C5B-4F10-A9B4-447637D0C778
