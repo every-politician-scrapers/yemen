@@ -1,39 +1,13 @@
 @@,item,itemlabel,position,positionlabel,cabinet,startdate,enddate,psid
-+++,,Abd Rabbo Saleh Aslami,,Ministre d'État,Q104601392,,,
-+++,,Abdel Nasser Al-Wali,,Ministre de la Fonction publique et des Assurances,Q104601392,,,
-+++,,Abdel Salam Hamid,,Ministre des Transports,Q104601392,,,
-+++,,Abdelghani Jamil,,Ministre chargé de Sanaa,Q104601392,,,
-+++,,Abdul Salam Abdullah Salem Baaboud,,Ministre du Pétrole et des Minéraux,Q104601392,,,
----,Q16119688,Ahmad Awad Bin Mubarak,Q18345286,Minister of Foreign Affairs of Yemen,,2020-12-18,,Q16119688-D796F264-0CD1-4740-88DE-36EA6234B5FF
 ---,Q16119688,Ahmad Awad Bin Mubarak,Q28492176,Minister of Expatriate Affairs,Q104601392,2020-12-26,,Q16119688-97ABF99B-528D-44C2-8FE2-977F243486E8
-+++,Q16119688,Ahmed Awad ben Moubarak,,Ministre des Affaires étrangères,Q104601392,,,
-+++,,Ahmed Mohamed Omar Orman,,Ministre des Droits de l'homme,Q104601392,,,
-+++,,Ahmed Mohamed Omar Orman,,Ministre des Affaires juridiques,Q104601392,,,
-+++,,Badr al-Ardah,,Ministre de la Justice,Q104601392,,,
-+++,,Hussein Abdul Rahman,,Ministre de l'Administration locale,Q104601392,,,
-+++,,Ibrahim Ali Ahmed Haidan,,Ministre de l'Intérieur,Q104601392,,,
----,Q113574719,Ibrahim Haidan,Q28481301,Minister of Interior of Yemen,Q104601392,2020-12-17,,Q113574719-48DE5D7F-00B5-4445-9D29-A51B361C4983
-+++,,Ibrahim Mohamed Ali Kolshat,,Ministre de l'Électricité,Q104601392,,,
-+++,,Khaled Al-Wasabi,,Ministre de l'Enseignement Supérieur et de la Recherche Scientifique,Q104601392,,,
-+++,,Khaled Al-Wasabi,,Ministre de l'Enseignement technique et Professionnel,Q104601392,,,
----,Q114350102,Khaled al-Wesabi,Q28492172,Minister of Higher Education and Scientific Research,Q104601392,2020-12-17,,Q114350102-1CC9F355-244B-463B-8CC3-3DF4B945CB5A
----,Q114350102,Khaled al-Wesabi,Q28492154,Minister of Technical Education and Vocational Training,Q104601392,2020-12-17,,Q114350102-01BF64A1-F9E2-4716-A6A5-4E842E0658EF
-+++,,Manea Bayamaïn,,Ministre des Travaux publics et des Infrastructures,Q104601392,,,
-+++,,Marwan Damaj,,Ministre de la Culture,Q104601392,,,
-+++,Q57373157,Maïn Abdelmalek Saïd,,Premier ministre,Q104601392,,,
-->,Q104601317,Mohamed Ahmed Shabiba,Q28492150,Minister of Endowments and Guidance->Ministre des Dotations religieuses et de l'Orientation,Q104601392,2020-12-26,,Q104601317-5365165d-406c-b736-d630-81418fe663cd
-+++,,Mohammed Abdallah Kouddah,,Ministre d'État,Q104601392,,,
-->,Q20423157,Mohammed Ali Al-Maqdashi,Q24810166,Minister of Defence->Ministre de la Défense,Q58350266->Q104601392,2018-11-07,2022-07-22,Q20423157-e0e641df-4718-d72f-1a56-ef198e24c5d1
-+++,,Mohammed Moqbel al-Himyari,,Ministre d'État aux Affaires parlementaires et au Conseil de la Choura,Q104601392,,,
-+++,,Muammar al-Iryani,,Ministre du Tourisme,Q104601392,,,
-+++,,Muammar al-Iryani,,Ministre de l'Information,Q104601392,,,
-+++,,Muhammad Al-Zaouri,,Ministre des Affaires sociales et du Travail,Q104601392,,,
----,Q59246326,Najeeb Mansour Hameed Al Auj,Q114869364,Minister of State for National Dialogue,Q104601392,2018-11-27,,Q59246326-3F3B3A11-30F3-4B87-93CF-C8419D79A227
+---,Q114869772,Manea Saleh,Q28492184,Ministre de l'Électricité,Q104601392,2022-07-28,,Q114869772-686132C9-AC0D-4D3B-B669-19458147F592
+---,Q16127851,Moammar Al-Eryani,Q28492162,Minister of Culture,Q104601392,2020-12-17,,Q16127851-05B82007-7808-437C-941A-039B4C3A14C2
+---,Q114869664,Mohamed Al-Ashwal,Q28492170,Minister of Industry and Trade,Q104601392,2020-12-17,,Q114869664-61A6D013-A179-4C11-BE46-5C2CB0DEA108
+---,Q113407477,Mohsen Mohammed Hussein al-Daeri,Q24810166,Ministre de la Défense,Q104601392,2022-07-28,,Q113407477-E855DB00-046B-49C2-8439-169B4B7ECB08
 ---,Q59246326,Najeeb Mansour Hameed Al Auj,Q28492151,Minister of Communication of Yemen,Q104601392,2020-12-18,,Q59246326-2dd971d5-40a9-18e2-084c-806449890931
-+++,,Najib Mansour Al-Awj,,Ministre d'ÉtatChargé du Dialogue national,Q104601392,,,
-->,Q21680111,Nayef al-Bakri,Q28492158,Minister of Youth and Sports->Ministre de la Jeunesse et des Sports,Q104601392,2015-09-15,,Q21680111-A07252DF-9824-46E3-9024-039A198C5AE2
-+++,,Qassem Mohammad Qassem Baheeh,,Ministre de la Santé,Q104601392,,,
-+++,,Salem Abdullah Issa Al-Soqotri,,Ministre de l'Agriculture et de l'Irrigation,Q104601392,,,
-+++,,Salem Saleh Bin Braik,,Ministère des Finances,Q104601392,,,
----,Q68837007,Salem Saleh Salem bin brek,Q28492161,Minister of Finance,Q104601392,2019-09-19,,Q68837007-9E32BD0D-9C5B-4F10-A9B4-447637D0C778
+---,Q114869724,Said Suliman Barakat al-Shamasi,Q28492179,Ministre du Pétrole et des Minéraux,Q104601392,2022-07-28,,Q114869724-3E7302A9-688F-4A36-A6AB-6716D3D81718
+---,Q114869735,Salem Abdullah Issa Al-Soqotri,Q28492157,Minister of Fisheries,Q104601392,2020-12-17,,Q114869735-8E71D130-94B1-43C3-87A3-DA251FD9E972
+---,Q114869775,Salim Mohammed,Q28492149,Ministre des Travaux publics et des Infrastructures,Q104601392,2022-07-28,,Q114869775-E2D4B300-2297-49D3-8F20-A034ED5B54B5
+---,Q114869756,Tareq Salem Al-Abkari,Q28492165,Minister of Education,Q104601392,2020-12-17,,Q114869756-A18C28AC-0BA6-4979-A061-922E04F3CAD3
+---,Q114869762,Tawfiq Al-Sharjabi,Q28492167,Minister of Water and Environment,Q104601392,2020-12-17,,Q114869762-EDDA047D-4C83-4FDC-892E-D49D2CC3EC23
 ---,Q22690657,Waed Badhib,Q28492160,Minister of Planning and International Cooperation,Q104601392,2020-12-18,,Q22690657-296746d0-4847-bdb4-8a92-da46d1b6f9c5

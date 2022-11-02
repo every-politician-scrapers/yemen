@@ -1,40 +1,52 @@
 @@,item,itemlabel,position,positionlabel,startdate,enddate,psid
----,Q104601317,,Q28492150,Minister of Endowments and Guidance,2020-12-26,,Q104601317-5365165d-406c-b736-d630-81418fe663cd
-+++,,Abd Rabbo Saleh Aslami,,Minister of State,2016-09-18,,
-+++,,Abdelghani Jamil,,Minister of Sana’a Secretariat,2016-09-18,,
-->,Q16119932,Abdo Mohammed Abdullah Beshr->Mohamed al-Ashwal,Q28492170,Minister of Industry and Trade,2016-11-28->2020-12-17,,Q16119932-6bd06a72-47e3-765e-c887-af071072e3d5
----,Q16119688,Ahmad Awad Bin Mubarak,Q18345286,Minister of Foreign Affairs of Yemen,2020-12-18,,Q16119688-D796F264-0CD1-4740-88DE-36EA6234B5FF
-+++,Q16119688,Ahmad Awad bin Mubarak,,Minister of Foreign Affairs,2020-12-17,,
-+++,Q16119688,Ahmad Awad bin Mubarak,,Minister of Expatriates Affairs,,,
-+++,,Ahmed Mohamed Omar Orman,,Minister of Legal Affairs,2020-12-17,,
-->,Q55436193,Ahmed bin ahmed AL-Maysari->Mohammed Moqbel al-Himyari,Q28481301,Minister of Interior of Yemen->Minister of State for Parliamentary Affairs and the Shura Council,2017-12-25,2020-12-26,Q55436193-383da39b-4ab2-08e5-2415-50625ff21e68
-->,Q59260881,Ali Haitham Ali Abdullah->Badr al-Ardah,Q28492181,Minister of Justice,2018-11-27->2020-12-17,2020-12-26,Q59260881-1104F4B7-7660-481D-B0FA-BB9CF65D14FB
+---,Q12223068,Abdel-Aziz bin Habtour,Q1192903,Prime Minister of Yemen,2016-10-04,,Q12223068-1D4FDB8E-50B1-40D2-B9E9-A5B6EF02A34A
+---,Q16119932,Abdo Mohammed Abdullah Beshr,Q28492170,Minister of Industry and Trade,2016-11-28,,Q16119932-6bd06a72-47e3-765e-c887-af071072e3d5
+---,Q114870620,Abdulaziz Al-Kumaim,Q28492160,Minister of Planning and International Cooperation,2017-07,,Q114870620-166C7643-4435-4627-9AB6-22FC6291BCD7
+---,Q114870621,Abdulhakim Ahmed Al-Mawri,Q28481301,Minister of Interior of Yemen,2017-12-13,,Q114870621-52587B9E-E06A-40C5-A189-220DDC1FBBE0
+---,Q114870622,Abdullah Ahmad Al-Kibsy,Q28492162,Minister of Culture,2016-11-28,,Q114870622-A9D4958F-75AD-479C-85D4-418BBABBBEEF
+---,Q114870623,Abdulrahman Ahmed Al-Mukhtar,Q28492178,Minister of Legal Affairs,2016-11-28,,Q114870623-0032FC39-F5E6-4528-B396-5E10EB88CB48
+---,Q114870624,Ahmed Abdullah Akabat,Q28492181,Minister of Justice,2016-11-28,,Q114870624-974FD735-8834-4033-8834-560D7B228078
+---,Q114870625,Ahmed Abdullah Naji Dars,Q28492179,Minister of Oil and Minerals,2018-01-01,,Q114870625-7574EA5B-80A6-45C6-A094-B686BDB87628
+---,Q114870626,Ahmed Saleh Al-Ganie,Q114869364,Minister of State for National Dialogue,2016-11-28,,Q114870626-AD9A1109-D2F4-4421-8FA3-DDE077CEEF5E
+---,Q55436193,Ahmed bin ahmed AL-Maysari,Q28481301,Minister of Interior of Yemen,2017-12-25,2020-12-26,Q55436193-383da39b-4ab2-08e5-2415-50625ff21e68
+---,Q114870627,Ali Abdullah Abu Hulaykah,Q28492180,Minister of Parliament and Shura Affairs,2016-11-28,,Q114870627-D0B028AA-D0E0-4691-BD28-EC1304967790
+---,Q114870628,Ali Bin Ali Al-Kays,Q28492152,Minister of Local Administration,2016-11-28,,Q114870628-4946FA8C-7A85-4E1F-90B7-7A54A630AE00
+---,Q59260881,Ali Haitham Ali Abdullah,Q28492181,Minister of Justice,2018-11-27,2020-12-26,Q59260881-1104F4B7-7660-481D-B0FA-BB9CF65D14FB
+---,Q114870629,Alia Faisal Abdullatif Al-Shaba,Q28492163,Minister of Human Rights,2016-11-28,,Q114870629-BD27DCDC-878E-4AFD-89AD-708D71488A3A
+---,Q114870630,Dhaifallah Qasim Saleh Al-Shami,Q28492156,Minister of Information,2018-11-10,,Q114870630-57296F88-D029-43BE-B4A6-9514D4197E60
+---,Q114870631,Faiqah Al-Sayed Ba'Alawy,Q28492173,Minister of Social Affairs and Labor,2016-11-28,,Q114870631-893608D6-1BC1-4AA5-969E-0EF11505A2FA
+---,Q5434993,Fares Mana'a,Q114869363,Minister of State,2016-11-28,,Q5434993-1831A993-0772-430E-AE34-1C279BC1D84D
+---,Q114870632,Ghalib Abdullah Mutlaq,Q28492149,Minister of Public Works and Highways,2016-11-28,,Q114870632-6FCBED4E-6CBA-42AF-BC60-94822A318860
+---,Q114870633,Ghazi Ahmed Mohsen,Q28492155,Minister of Agriculture and Irrigation,2016-11-28,,Q114870633-2DEAC138-242E-4A20-A5EE-F0BB9EE1B746
 ---,Q16187308,Hisham Sharaf,Q18345286,Minister of Foreign Affairs of Yemen,2016-11-28,,Q16187308-C4347B5A-01B5-47E8-A7EB-7C25A4230516
-+++,,Hussein Abdul Rahman,,Minister of Local Administration,2020-12-17,,
-+++,Q113574719,Ibrahim Ali Ahmed Haidan,,Minister of Interior,2020-12-17,,
-+++,Q114350102,Khaled Al-Wasabi,,Minister of Technical Education and Vocational,2020-12-17,,
-+++,Q114350102,Khaled Al-Wasabi,,Minister of Higher Education and Scientific Research,2020-12-17,,
-+++,,Mohammed Abdallah Kouddah,,Minister of State,2017-11-27,,
-+++,Q57373157,Maeen Abdulmalik Saeed,,Prime Minister,2018-10-15,,
-+++,,Mohamed Ahmed Shabiba,,Minister of Religious Endowments and Guidance,2020-12-17,,
-->,Q16127851,Moammar Al-Eryani->Muammar al-Iryani,Q28492156,Minister of Information,2016-09-18,2020-12-26,Q16127851-82d7e4e9-4c2d-b06b-4434-723b8fde23c1
-->,Q5627924,Mohamed Qubaty->Muammar al-Iryani,Q28492159,Minister of Tourism,2016-09-18->2020-12-17,,Q5627924-7820B73C-E881-4757-B64D-57A15CECDC7D
-->,Q59260916,Mohammed Abdullah Saleh Nasser Al - Anani->Mana'a Saleh Yaslam,Q28492184,Minister of Electricity and Energy,2018-11-27->2022-07-28,2020-12-26,Q59260916-2A914994-EAEF-426F-A9AF-B1DD2C478A88
-->,Q59334777,Mohammed Mohsen Askar->Ahmed Mohamed Omar Orman,Q28492163,Minister of Human Rights,2017-04-27,2020-12-26,Q59334777-8B8E4C16-D1B8-4D82-8F91-D4530DE72601
-+++,Q113407477,Mohsen al-Daeri,,Minister of Defense,2022-07-28,,
-+++,,Muammar al-Iryani,,Minister of Culture,2020-12-17,,
-+++,,Muhammad Al-Zaouri,,Minister of Social Affairs and Labour,2020-12-17,,
----,Q59246326,Najeeb Mansour Hameed Al Auj,Q28492151,Minister of Communication of Yemen,2020-12-18,,Q59246326-2dd971d5-40a9-18e2-084c-806449890931
-+++,,Najib Mansour Al-Awj,,Minister of State for National Dialogue,2018-11-27,,
-+++,,Najib al-Awj,,Minister of Telecommunications & Information Technology,2020-12-17,,
----,Q59334782,Nasser Mohsen Baoum,Q28492164,Minister of Public Health and Population,2015-09-14,2020-12-26,Q59334782-C7D65E91-CF8C-45BD-94F7-E2EE65EF2621
-+++,,Qassem Mohammad Qassem Bahaibah,,Minister of Health,2020-12-17,,
-+++,,Saeed Sulaiman al-Shamasi,,Minister of Oil and Minerals,2022-07-28,,
-+++,,Salem Abdullah Issa Al-Soqotri,,Minister of Fisheries Wealth,2020-12-17,,
-+++,,Salem Abdullah Issa Al-Soqotri,,Minister of Agriculture and Irrigation,2020-12-17,,
-+++,,Salem Mohamed al-Harayzi,,Minister of Public Works and Highways,2022-07-28,,
-+++,,Tawfiq al-Sharjabi,,Minister of Water and Environment,2020-12-17,,
-
-->,Q73405138,Saleh Algabwni->Abdel Salam Hamid,Q28492183,Minister of Transport,2017-12-24->2020-12-17,2020-12-26,Q73405138-50e3e61b-4275-296d-a0fe-03e0e9fb734a
-->,Q4539761,Yahia Badreddin al-Houthi->Tareq Salem al-Abkari,Q28492165,Minister of Education,2016-11-28->2020-12-17,,Q4539761-20c2961a-4158-fc21-b225-e4ddcb0ba930
-->,Q13360057,Nabil Hasan al-Faqih->Abdel Nasser Al-Wali,Q28492175,Minister of Civil Service and Insurance,2018-08-08->2020-12-17,2020-12-26,Q13360057-2a7d6cc2-46e0-ea55-b517-3be4eee5049a
+---,Q114870635,Hussein Abdullah Mkabuli,Q25040191,Deputy Prime Minister of Yemen,2016-11-28,,Q114870635-1FE9019E-4C72-4A18-ADFC-8848D7D5E91D
+---,Q114870636,Hussein Ali Hazeb,Q28492172,Minister of Higher Education and Scientific Research,2016-11-28,,Q114870636-668954B0-84C5-468A-984C-93E86A2EB5D8
+---,Q20385496,Jalal Al-Ruwishan,Q25040191,Deputy Prime Minister of Yemen,2016-11-28,,Q20385496-72F9442D-18CB-4859-9216-70482D2DF88E
+---,Q114870637,Lutf Ali Al-Jermouzi,Q28492184,Minister of Electricity and Energy,2016-11-28,,Q114870637-CD8A3EA8-4556-46DE-AC1C-183A2123C76E
+->,Q57373157,Maeen Abdulmalik Saeed,Q1192903,Prime Minister,2020-12-18->2018-10-15,,Q57373157-30f44809-435d-587f-e668-fdbe9debbbd3
+---,Q114870638,Mahmoud Abdel Kader Al-Jounaïd,Q25040191,Deputy Prime Minister of Yemen,2018-01-01,,Q114870638-B21A8E26-DF92-4B99-A908-28DF61085581
+---,Q59334780,Marwan Ahmed Damaj,Q28492162,Minister of Culture,2020-12-26,,Q59334780-85E48583-AE40-4332-8A8D-CE95A67204B7
+---,Q16127851,Moammar Al-Eryani,Q28492156,Minister of Information,2018-10-15,2020-12-26,Q16127851-03494891-4343-b789-8385-bb9dffb06291
+->,Q104601317,Mohamed Ahmed Shabiba,Q28492150,Minister of Religious Endowments and Guidance,2020-12-26->2020-12-17,,Q104601317-5365165d-406c-b736-d630-81418fe663cd
+---,Q28086296,Mohamed al-Atifi,Q24810166,Minister of Defence,2016-11-28,,Q28086296-125467C6-C5EA-44F2-B9E5-E9FB5585372C
+---,Q114870639,Mohammad Mohammad Al-Zubayri,Q28492157,Minister of Fisheries,2016-11-28,,Q114870639-2C75B073-A27A-4164-A72E-C029607D0C11
+---,Q59260916,Mohammed Abdullah Saleh Nasser Al - Anani,Q28492184,Minister of Electricity and Energy,2018-11-27,2020-12-26,Q59260916-2A914994-EAEF-426F-A9AF-B1DD2C478A88
+---,Q59334777,Mohammed Mohsen Askar,Q28492163,Minister of Human Rights,2017-04-27,2020-12-26,Q59334777-8B8E4C16-D1B8-4D82-8F91-D4530DE72601
+---,Q114870640,Mohammed Saeed Al-Mashjari,Q28492176,Minister of Expatriate Affairs,2016-11-28,,Q114870640-C12394F3-E291-4469-842F-306D1D070C35
+---,Q114870641,Mohsen Ali Al-Nakib,Q28492154,Minister of Technical Education and Vocational Training,2016-11-28,,Q114870641-3FE41A3B-4A0D-4602-B668-812DCE511ADF
+---,Q114870642,Musfer Abdullah Saleh Al-Numeir,Q28492151,Minister of Communication of Yemen,2017-12-16,,Q114870642-82D0FFB1-1B6D-4B4F-B467-479568CF0555
+---,Q114870644,Nabil Abdullah Al-Wazair,Q28492167,Minister of Water and Environment,2016-11-28,,Q114870644-55124049-8E6B-4DD7-8EB5-63F7C24F8C09
+---,Q13360057,Nabil Hasan al-Faqih,Q28492175,Minister of Civil Service and Insurance,2018-08-08,2020-12-26,Q13360057-2a7d6cc2-46e0-ea55-b517-3be4eee5049a
+---,Q114870645,Nasser Mahfouz Bagazkoz,Q28492159,Minister of Tourism,2016-11-28,,Q114870645-A19DBCC5-0206-433D-ADA7-7D32C06B2BFB
+---,Q21680111,Nayef al-Bakri,Q28492158,Minister of Youth and Sport,2015-09-15,,Q21680111-A07252DF-9824-46E3-9024-039A198C5AE2
+---,Q21680111,Nayef al-Bakri,Q28492158,Minister of Youth and Sport,2015-09-14,2020-12-26,Q21680111-2aa1a79e-4cb4-56e0-9e1b-3fdc0c205de8
++++,Q21680111,Nayef al-Bakri,,Minister of Youth and Sport,2015-09-15,,
+---,Q114870646,Saleh Ahmed Shaaban,Q28492161,Minister of Finance,2016-11-28,,Q114870646-02BD363B-54DF-44BB-9882-61AF78C47ADD
+---,Q73405138,Saleh Algabwni,Q28492183,Minister of Transport,2017-12-24,2020-12-26,Q73405138-50e3e61b-4275-296d-a0fe-03e0e9fb734a
+---,Q68837007,Salem Saleh Bin Braik,Q28492161,Minister of Finance,2019-09-19,2020-12-26,Q68837007-ada0f347-4f57-7ab8-5b64-f81f26d7ce54
+---,Q68837007,Salem Saleh Bin Braik,Q28492161,Minister of Finance,2019-09-19,,Q68837007-9E32BD0D-9C5B-4F10-A9B4-447637D0C778
++++,,Salem Saleh Bin Braik,,Minister of Finance,2019-09-19,,
+---,Q114870647,Sharaf Ali Al-Kulaisi,Q28492150,Minister of Endowments and Guidance,2016-11-28,,Q114870647-BAB1B6DE-096E-4443-8A82-7F884233523B
+---,Q26311375,Talal Aklan,Q28492175,Minister of Civil Service and Insurance,2016-11-28,,Q26311375-EF35A994-C1DA-42F1-8CCB-7A6D9246E506
+---,Q4539761,Yahia Badreddin al-Houthi,Q28492165,Minister of Education,2016-11-28,,Q4539761-20c2961a-4158-fc21-b225-e4ddcb0ba930
+---,Q114870648,Zakaria Yahya Al-Shami,Q28492183,Minister of Transport,2016-11-28,,Q114870648-91F799F5-AA2B-4C85-8F65-D140E4F6D474
