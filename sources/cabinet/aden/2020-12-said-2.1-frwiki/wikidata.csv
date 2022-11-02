@@ -1,13 +1,38 @@
 item,itemLabel,position,positionLabel,cabinet,startDate,endDate,source,psid
-Q104601317,Mohamed Ahmed Shabiba,Q28492150,Minister of Endowments and Guidance,Q104601392,2020-12-26,,,Q104601317-5365165d-406c-b736-d630-81418fe663cd
-Q113574719,Ibrahim Haidan,Q28481301,Minister of Interior of Yemen,Q104601392,2020-12-17,,,Q113574719-48DE5D7F-00B5-4445-9D29-A51B361C4983
-Q114350102,Khaled al-Wesabi,Q28492154,Minister of Technical Education and Vocational Training,Q104601392,2020-12-17,,,Q114350102-01BF64A1-F9E2-4716-A6A5-4E842E0658EF
-Q114350102,Khaled al-Wesabi,Q28492172,Minister of Higher Education and Scientific Research,Q104601392,2020-12-17,,,Q114350102-1CC9F355-244B-463B-8CC3-3DF4B945CB5A
+Q104601317,Mohamed Ahmed Shabiba,Q28492150,Ministre des Dotations religieuses et de l'Orientation,Q104601392,2020-12-26,,https://fr.wikipedia.org/wiki/Gouvernement_Ma%C3%AFn_Abdelmalek_Sa%C3%AFd_(2),Q104601317-5365165d-406c-b736-d630-81418fe663cd
+Q109255985,Ibrahim Mohamed Ali Kolshat,Q28492184,Ministre de l'Électricité,Q104601392,2020-12-18,2022-07-28,https://fr.wikipedia.org/wiki/Gouvernement_Ma%C3%AFn_Abdelmalek_Sa%C3%AFd_(2),Q109255985-2b3dc48d-4a43-f8cf-a88f-387a1f133bbb
+Q113574719,Ibrahim Ali Ahmed Haidan,Q28481301,Ministre de l'Intérieur,Q104601392,2020-12-17,,https://fr.wikipedia.org/wiki/Gouvernement_Ma%C3%AFn_Abdelmalek_Sa%C3%AFd_(2),Q113574719-48DE5D7F-00B5-4445-9D29-A51B361C4983
+Q114350102,Khaled Al-Wasabi,Q28492154,Ministre de l'Enseignement technique et Professionnel,Q104601392,2020-12-17,,https://fr.wikipedia.org/wiki/Gouvernement_Ma%C3%AFn_Abdelmalek_Sa%C3%AFd_(2),Q114350102-01BF64A1-F9E2-4716-A6A5-4E842E0658EF
+Q114350102,Khaled Al-Wasabi,Q28492172,Ministre de l'Enseignement Supérieur et de la Recherche Scientifique,Q104601392,2020-12-17,,https://fr.wikipedia.org/wiki/Gouvernement_Ma%C3%AFn_Abdelmalek_Sa%C3%AFd_(2),Q114350102-1CC9F355-244B-463B-8CC3-3DF4B945CB5A
+Q114869418,Abdel Nasser Al-Wali,Q28492175,Ministre de la Fonction publique et des Assurances,Q104601392,2020-12-17,,https://fr.wikipedia.org/wiki/Gouvernement_Ma%C3%AFn_Abdelmalek_Sa%C3%AFd_(2),Q114869418-2FEECF0A-2D65-44A8-BC4B-278B53D49E86
+Q114869638,Ahmed Mohamed Omar Orman,Q28492163,Ministre des Droits de l'homme,Q104601392,2017-04-27,,https://fr.wikipedia.org/wiki/Gouvernement_Ma%C3%AFn_Abdelmalek_Sa%C3%AFd_(2),Q114869638-2600075D-BF15-4E59-85D7-D26150179667
+Q114869638,Ahmed Mohamed Omar Orman,Q28492178,Ministre des Affaires juridiques,Q104601392,2020-12-17,,https://fr.wikipedia.org/wiki/Gouvernement_Ma%C3%AFn_Abdelmalek_Sa%C3%AFd_(2),Q114869638-466681FA-A86F-44CE-B60E-74D13D87A9BC
+Q114869654,Hussein Abdul Rahman,Q28492152,Ministre de l'Administration locale,Q104601392,2020-12-17,,https://fr.wikipedia.org/wiki/Gouvernement_Ma%C3%AFn_Abdelmalek_Sa%C3%AFd_(2),Q114869654-DD9E71AD-4FD1-4877-A8E5-45C30A5D42D7
+Q114869664,Mohamed Al-Ashwal,Q28492170,Minister of Industry and Trade,Q104601392,2020-12-17,,,Q114869664-61A6D013-A179-4C11-BE46-5C2CB0DEA108
+Q114869699,Muhammad Al-Zaouri,Q28492173,Ministre des Affaires sociales et du Travail,Q104601392,2020-12-17,,https://fr.wikipedia.org/wiki/Gouvernement_Ma%C3%AFn_Abdelmalek_Sa%C3%AFd_(2),Q114869699-90E361A0-8E1C-4C8F-AB09-72887BE6431C
+Q114869710,Qassem Mohammad Qassem Baheeh,Q28492164,Ministre de la Santé,Q104601392,2020-12-17,,https://fr.wikipedia.org/wiki/Gouvernement_Ma%C3%AFn_Abdelmalek_Sa%C3%AFd_(2),Q114869710-B3DE8E04-C753-42C4-9D92-1D6E05668017
+Q114869735,Salem Abdullah Issa Al-Soqotri,Q28492157,Minister of Fisheries,Q104601392,2020-12-17,,,Q114869735-8E71D130-94B1-43C3-87A3-DA251FD9E972
+Q114869735,Salem Abdullah Issa Al-Soqotri,Q28492155,Ministre de l'Agriculture et de l'Irrigation,Q104601392,2020-12-17,,https://fr.wikipedia.org/wiki/Gouvernement_Ma%C3%AFn_Abdelmalek_Sa%C3%AFd_(2),Q114869735-A79FBDF5-B971-4FEB-AE6E-4B7AE51E27DD
+Q114869756,Tareq Salem Al-Abkari,Q28492165,Minister of Education,Q104601392,2020-12-17,,,Q114869756-A18C28AC-0BA6-4979-A061-922E04F3CAD3
+Q114869762,Tawfiq Al-Sharjabi,Q28492167,Minister of Water and Environment,Q104601392,2020-12-17,,,Q114869762-EDDA047D-4C83-4FDC-892E-D49D2CC3EC23
+Q114869768,Abd Rabbo Saleh Aslami,Q114869363,Ministre d'État,Q104601392,2016-09-18,,https://fr.wikipedia.org/wiki/Gouvernement_Ma%C3%AFn_Abdelmalek_Sa%C3%AFd_(2),Q114869768-52887998-957D-4A69-A193-8B001DEBEB80
+Q114869769,Abdel Salam Hamid,Q28492183,Ministre des Transports,Q104601392,2020-12-17,,https://fr.wikipedia.org/wiki/Gouvernement_Ma%C3%AFn_Abdelmalek_Sa%C3%AFd_(2),Q114869769-29438C86-0D9B-427F-B61F-13B8723FECBB
+Q114869770,Abdelghani Jamil,Q114869362,Ministre chargé de Sanaa,Q104601392,2016-09-18,,https://fr.wikipedia.org/wiki/Gouvernement_Ma%C3%AFn_Abdelmalek_Sa%C3%AFd_(2),Q114869770-C014A069-E499-47A3-A4CC-9AD310B4FFDE
+Q114869771,Badr al-Ardah,Q28492181,Ministre de la Justice,Q104601392,2020-12-17,,https://fr.wikipedia.org/wiki/Gouvernement_Ma%C3%AFn_Abdelmalek_Sa%C3%AFd_(2),Q114869771-E5B5D1CC-3629-4E33-B2CA-EAF1B8698F3D
+Q114869773,Mohammed Abdallah Kouddah,Q114869363,Ministre d'État,Q104601392,2017-11-27,,https://fr.wikipedia.org/wiki/Gouvernement_Ma%C3%AFn_Abdelmalek_Sa%C3%AFd_(2),Q114869773-97FE4916-AB89-40CE-95AE-D37722510320
+Q114869774,Mohammed Moqbel al-Himyari,Q28492180,Ministre d'État aux Affaires parlementaires et au Conseil de la Choura,Q104601392,2017-12-25,,https://fr.wikipedia.org/wiki/Gouvernement_Ma%C3%AFn_Abdelmalek_Sa%C3%AFd_(2),Q114869774-3B742F14-8E95-4D11-9214-4375995CDFDF
+Q114870284,Abdul Salam Abdullah Salem Baaboud,Q28492179,Ministre du Pétrole et des Minéraux,Q104601392,2020-12-26,2022-07-29,https://fr.wikipedia.org/wiki/Gouvernement_Ma%C3%AFn_Abdelmalek_Sa%C3%AFd_(2),Q114870284-B735E88C-7014-4A7E-825E-0270E8B2DDED
+Q114870285,Manea Bayamaïn,Q28492149,Ministre des Travaux publics et des Infrastructures,Q104601392,2020-12-26,2022-07-29,https://fr.wikipedia.org/wiki/Gouvernement_Ma%C3%AFn_Abdelmalek_Sa%C3%AFd_(2),Q114870285-0CA9D7B1-A57C-4D21-A002-5D4B8AD4F697
 Q16119688,Ahmad Awad Bin Mubarak,Q28492176,Minister of Expatriate Affairs,Q104601392,2020-12-26,,,Q16119688-97ABF99B-528D-44C2-8FE2-977F243486E8
-Q16119688,Ahmad Awad Bin Mubarak,Q18345286,Minister of Foreign Affairs of Yemen,,2020-12-18,,,Q16119688-D796F264-0CD1-4740-88DE-36EA6234B5FF
-Q20423157,Mohammed Ali Al-Maqdashi,Q24810166,Minister of Defence,Q58350266,2018-11-07,2022-07-22,,Q20423157-e0e641df-4718-d72f-1a56-ef198e24c5d1
-Q21680111,Nayef al-Bakri,Q28492158,Minister of Youth and Sports,Q104601392,2015-09-15,,,Q21680111-A07252DF-9824-46E3-9024-039A198C5AE2
+Q16119688,Ahmed Awad ben Moubarak,Q18345286,Ministre des Affaires étrangères,Q104601392,2020-12-18,,https://fr.wikipedia.org/wiki/Gouvernement_Ma%C3%AFn_Abdelmalek_Sa%C3%AFd_(2),Q16119688-D796F264-0CD1-4740-88DE-36EA6234B5FF
+Q16127851,Moammar Al-Eryani,Q28492162,Minister of Culture,Q104601392,2020-12-17,,,Q16127851-05B82007-7808-437C-941A-039B4C3A14C2
+Q16127851,Muammar al-Iryani,Q28492156,Ministre de l'Information,Q104601392,2016-09-18,,https://fr.wikipedia.org/wiki/Gouvernement_Ma%C3%AFn_Abdelmalek_Sa%C3%AFd_(2),Q16127851-79E2F33C-E71F-4BA5-8827-1872CB6CDBE1
+Q16127851,Muammar al-Iryani,Q28492159,Ministre du Tourisme,Q104601392,2020-12-17,,https://fr.wikipedia.org/wiki/Gouvernement_Ma%C3%AFn_Abdelmalek_Sa%C3%AFd_(2),Q16127851-CEEB9612-2395-4C9B-B406-949BF25EB563
+Q20423157,Mohammed Ali Al-Maqdashi,Q24810166,Ministre de la Défense,Q104601392,2020-12-26,2022-07-29,https://fr.wikipedia.org/wiki/Gouvernement_Ma%C3%AFn_Abdelmalek_Sa%C3%AFd_(2),Q20423157-376E5B8B-655A-48C5-BE73-990CA7ADC0D9
+Q21680111,Nayef al-Bakri,Q28492158,Ministre de la Jeunesse et des Sports,Q104601392,2015-09-15,,https://fr.wikipedia.org/wiki/Gouvernement_Ma%C3%AFn_Abdelmalek_Sa%C3%AFd_(2),Q21680111-A07252DF-9824-46E3-9024-039A198C5AE2
 Q22690657,Waed Badhib,Q28492160,Minister of Planning and International Cooperation,Q104601392,2020-12-18,,,Q22690657-296746d0-4847-bdb4-8a92-da46d1b6f9c5
+Q57373157,Maïn Abdelmalek Saïd,Q1192903,Premier ministre,Q104601392,2020-12-18,,https://fr.wikipedia.org/wiki/Gouvernement_Ma%C3%AFn_Abdelmalek_Sa%C3%AFd_(2),Q57373157-30f44809-435d-587f-e668-fdbe9debbbd3
 Q59246326,Najeeb Mansour Hameed Al Auj,Q28492151,Minister of Communication of Yemen,Q104601392,2020-12-18,,,Q59246326-2dd971d5-40a9-18e2-084c-806449890931
-Q59246326,Najeeb Mansour Hameed Al Auj,Q114869364,Minister of State for National Dialogue,Q104601392,2018-11-27,,,Q59246326-3F3B3A11-30F3-4B87-93CF-C8419D79A227
-Q68837007,Salem Saleh Salem bin brek,Q28492161,Minister of Finance,Q104601392,2019-09-19,,,Q68837007-9E32BD0D-9C5B-4F10-A9B4-447637D0C778
+Q59246326,Najib Mansour Al-Awj,Q114869364,Ministre d'État Chargé du Dialogue national,Q104601392,2018-11-27,,https://fr.wikipedia.org/wiki/Gouvernement_Ma%C3%AFn_Abdelmalek_Sa%C3%AFd_(2),Q59246326-3F3B3A11-30F3-4B87-93CF-C8419D79A227
+Q59334780,Marwan Damaj,Q28492162,Ministre de la Culture,Q104601392,2020-12-26,,https://fr.wikipedia.org/wiki/Gouvernement_Ma%C3%AFn_Abdelmalek_Sa%C3%AFd_(2),Q59334780-85E48583-AE40-4332-8A8D-CE95A67204B7
+Q68837007,Salem Saleh Bin Braik,Q28492161,Ministère des Finances,Q104601392,2019-09-19,,https://fr.wikipedia.org/wiki/Gouvernement_Ma%C3%AFn_Abdelmalek_Sa%C3%AFd_(2),Q68837007-9E32BD0D-9C5B-4F10-A9B4-447637D0C778
