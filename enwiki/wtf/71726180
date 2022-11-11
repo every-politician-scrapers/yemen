@@ -6,7 +6,8 @@
     "Speakers of the House of Representatives (Yemen)",
     "Yemeni politicians",
     "People from Taiz Governorate",
-    "General People's Congress (Yemen) politicians"
+    "General People's Congress (Yemen) politicians",
+    "1956 births"
   ],
   "sections": [
     {
@@ -92,12 +93,12 @@
       ],
       "templates": [
         {
-          "date": "October 2022",
-          "template": "use dmy dates"
-        },
-        {
           "description": "Yemeni politician",
           "template": "short description"
+        },
+        {
+          "date": "October 2022",
+          "template": "use dmy dates"
         },
         {
           "year": "1956",
