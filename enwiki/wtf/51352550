@@ -68,6 +68,10 @@
         {
           "date": "September 2022",
           "template": "cleanup bare urls"
+        },
+        {
+          "date": "November 2022",
+          "template": "fact"
         }
       ],
       "infoboxes": [
@@ -98,6 +102,12 @@
           },
           "term_start": {
             "text": "28 November 2016"
+          },
+          "term_end": {
+            "text": "24 April 2021"
+          },
+          "successor": {
+            "text": "Salim Al-Mughalis"
           },
           "office1": {
             "text": "Prime Minister of Yemen\nDisputed, acting",
