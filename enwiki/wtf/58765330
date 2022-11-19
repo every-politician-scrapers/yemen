@@ -74,27 +74,12 @@
             ]
           },
           "president": {
-            "text": "Abdrabbuh Mansur Hadi (until 7 April 2022)",
+            "text": "Abdrabbuh Mansur Hadi Rashad al-Alimi",
             "links": [
               {
                 "type": "internal",
                 "page": "Abdrabbuh Mansur Hadi"
-              }
-            ]
-          },
-          "1blankname": {
-            "text": "PLC Chairman",
-            "links": [
-              {
-                "text": "PLC",
-                "type": "internal",
-                "page": "Presidential Leadership Council"
-              }
-            ]
-          },
-          "1namedata": {
-            "text": "Rashad al-Alimi (since 7 April 2022)",
-            "links": [
+              },
               {
                 "type": "internal",
                 "page": "Rashad al-Alimi"

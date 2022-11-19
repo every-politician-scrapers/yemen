@@ -252,6 +252,9 @@
       "depth": 0,
       "templates": [
         {
+          "template": "reflist"
+        },
+        {
           "template": "yemen-politician-stub"
         }
       ]
