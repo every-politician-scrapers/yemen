@@ -59,6 +59,9 @@
       ],
       "infoboxes": [
         {
+          "image": {
+            "text": "Visit of Ahmed Awad bin Mubarak, Yemeni Minister for Foreign Affairs and Expatriate, to the European Commission (cropped).jpg"
+          },
           "office": {
             "text": "Minister of Foreign Affairs of Yemen",
             "links": [
@@ -137,9 +140,6 @@
                 "page": "University of Baghdad"
               }
             ]
-          },
-          "image": {
-            "text": "Visit of Ahmed Awad bin Mubarak, Yemeni Minister for Foreign Affairs and Expatriate, to the European Commission.jpg"
           }
         }
       ]
