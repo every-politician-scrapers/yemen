@@ -99,61 +99,12 @@
               }
             ]
           },
-          "office1": {
-            "text": "Minister of Higher Education and Scientific Research"
-          },
-          "term_start1": {
-            "text": "12 September 2012"
-          },
-          "term_end1": {
-            "text": "9 November 2014"
-          },
-          "president1": {
-            "text": "Abed Rabbo Mansour Hadi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abed Rabbo Mansour Hadi"
-              }
-            ]
-          },
           "primeminister1": {
             "text": "Muhammad Salim Basindwah",
             "links": [
               {
                 "type": "internal",
                 "page": "Muhammad Salim Basindwah"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Yahia Al Shoaibi"
-          },
-          "successor1": {
-            "text": "Mohammad al-Mutahar"
-          },
-          "birth_date": {
-            "text": "1956 (age 66)"
-          },
-          "birth_place": {
-            "text": "Taiz, Yemen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Taiz"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Pennsylvania State University Catholic University of America",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pennsylvania State University"
-              },
-              {
-                "type": "internal",
-                "page": "Catholic University of America"
               }
             ]
           },
