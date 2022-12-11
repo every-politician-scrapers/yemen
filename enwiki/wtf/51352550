@@ -62,12 +62,11 @@
       "templates": [
         {
           "description": "Yemeni politician",
-          "bot": "PearBOT 5",
           "template": "short description"
         },
         {
           "date": "September 2022",
-          "template": "cleanup bare urls"
+          "template": "use dmy dates"
         },
         {
           "date": "November 2022",
@@ -76,7 +75,7 @@
       ],
       "infoboxes": [
         {
-          "name": {
+          "birth_name": {
             "text": "Talal Abdulkarim Aklan"
           },
           "office": {
@@ -237,7 +236,7 @@
           "title": "Countries YZ",
           "url": "http://rulers.org/rulyz.html#yemen",
           "website": "Rulers",
-          "accessdate": "22 August 2016",
+          "access-date": "22 August 2016",
           "template": "citation",
           "type": "web"
         },
