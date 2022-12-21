@@ -33,7 +33,13 @@
               }
             },
             {
-              "text": "He is the current ambassador of Yemen to the United States."
+              "text": "He is the current ambassador of Yemen to the United States.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United States"
+                }
+              ]
             },
             {
               "text": "Previously, he served as minister of the Foreign Affairs.",
@@ -209,25 +215,46 @@
       ]
     },
     {
-      "title": "Qualifications",
+      "title": "Education",
       "depth": 0,
       "paragraphs": [
         {
-          "sentences": []
+          "sentences": [
+            {
+              "text": "Al-Hadhrami holds a Master in Development Policy from the Korean Development Institute, which he gained in 2013, as well as a Master in Diplomacy and International Relations from Fairleigh Dickinson University.",
+              "links": [
+                {
+                  "text": "Korean Development Institute",
+                  "type": "internal",
+                  "page": "Korea Development Institute"
+                },
+                {
+                  "type": "internal",
+                  "page": "Fairleigh Dickinson University"
+                }
+              ]
+            },
+            {
+              "text": "He also earned a Bachelor's degree from Missouri State University in 2002.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Missouri State University"
+                }
+              ]
+            }
+          ]
         }
       ],
-      "lists": [
-        [
-          {
-            "text": "Master in Development Policy from the Korean Development Institute, 2013"
-          },
-          {
-            "text": "Master in Diplomacy and International Relations from Fairleigh Dickinson University"
-          },
-          {
-            "text": "Bachelor from Missouri State University, 2002"
-          }
-        ]
+      "templates": [
+        {
+          "date": "October 2022",
+          "template": "cn"
+        },
+        {
+          "date": "October 2022",
+          "template": "cn"
+        }
       ]
     },
     {
@@ -237,23 +264,13 @@
         {
           "sentences": [
             {
-              "text": "Al-Hadhrami held many positions at the Ministry of Foreign Affairs.",
-              "links": [
-                {
-                  "text": "Foreign Affairs",
-                  "type": "internal",
-                  "page": "Ministry of Foreign Affairs (Yemen)"
-                }
-              ]
-            },
-            {
-              "text": "He began his diplomatic career in 2004 and worked at Yemen Permanent Mission to the United Nations from 2008 to 2012, representing Yemen at the UNDP, UNOPS, and UNFPA Executive Boards."
+              "text": "Al-Hadhrami began his diplomatic career in 2004 and worked at the Yemen Permanent Mission to the United Nations from 2008 to 2012, representing Yemen at the UNDP, UNOPS, and UNFPA Executive Boards."
             },
             {
               "text": "He was deputy chief of mission at the Embassy of the Republic of Yemen in Washington, DC, from 2016 to 2018."
             },
             {
-              "text": "In 2019 Al-Hadhrami was appointed the minister of the foreign affairs of Yemen after he served as vice minister of foreign affairs in 2018."
+              "text": "In 2019, Al-Hadhrami was appointed the minister of the foreign affairs of Yemen after he served as vice minister of foreign affairs in 2018."
             }
           ]
         }
@@ -292,6 +309,9 @@
       "templates": [
         {
           "template": "reflist"
+        },
+        {
+          "template": "yemen-politician-stub"
         }
       ]
     }
