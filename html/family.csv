@@ -1,26 +1,26 @@
 id,name,relationship,relative,relativename
 Q16124826,Hashem Abdullah Hussain Al-Ahmar,father,Q307637,Abdullah ibn Husayn al-Ahmar
 Q16124826,Hashem Abdullah Hussain Al-Ahmar,sibling,Q16127688,Hussain Abdullah Hussain al-Ahmar
-Q16124826,Hashem Abdullah Hussain Al-Ahmar,sibling,Q16297599,حمير عبد الله حسين الأحمر
+Q16124826,Hashem Abdullah Hussain Al-Ahmar,sibling,Q16297599,Himyar Abdullah al-Ahmar
 Q16124826,Hashem Abdullah Hussain Al-Ahmar,sibling,Q16297809,مذحج عبد الله بن حسين الأحمر
 Q16124826,Hashem Abdullah Hussain Al-Ahmar,sibling,Q475105,Sadiq al-Ahmar
 Q16124826,Hashem Abdullah Hussain Al-Ahmar,sibling,Q5644670,Hamid al-Ahmar
 Q16127688,Hussain Abdullah Hussain al-Ahmar,father,Q307637,Abdullah ibn Husayn al-Ahmar
 Q16127688,Hussain Abdullah Hussain al-Ahmar,sibling,Q16124826,Hashem Abdullah Hussain Al-Ahmar
-Q16127688,Hussain Abdullah Hussain al-Ahmar,sibling,Q16297599,حمير عبد الله حسين الأحمر
+Q16127688,Hussain Abdullah Hussain al-Ahmar,sibling,Q16297599,Himyar Abdullah al-Ahmar
 Q16127688,Hussain Abdullah Hussain al-Ahmar,sibling,Q16297809,مذحج عبد الله بن حسين الأحمر
 Q16127688,Hussain Abdullah Hussain al-Ahmar,sibling,Q475105,Sadiq al-Ahmar
 Q16127688,Hussain Abdullah Hussain al-Ahmar,sibling,Q5644670,Hamid al-Ahmar
-Q16297599,حمير عبد الله حسين الأحمر,father,Q307637,Abdullah ibn Husayn al-Ahmar
-Q16297599,حمير عبد الله حسين الأحمر,sibling,Q16124826,Hashem Abdullah Hussain Al-Ahmar
-Q16297599,حمير عبد الله حسين الأحمر,sibling,Q16127688,Hussain Abdullah Hussain al-Ahmar
-Q16297599,حمير عبد الله حسين الأحمر,sibling,Q16297809,مذحج عبد الله بن حسين الأحمر
-Q16297599,حمير عبد الله حسين الأحمر,sibling,Q475105,Sadiq al-Ahmar
-Q16297599,حمير عبد الله حسين الأحمر,sibling,Q5644670,Hamid al-Ahmar
+Q16297599,Himyar Abdullah al-Ahmar,father,Q307637,Abdullah ibn Husayn al-Ahmar
+Q16297599,Himyar Abdullah al-Ahmar,sibling,Q16124826,Hashem Abdullah Hussain Al-Ahmar
+Q16297599,Himyar Abdullah al-Ahmar,sibling,Q16127688,Hussain Abdullah Hussain al-Ahmar
+Q16297599,Himyar Abdullah al-Ahmar,sibling,Q16297809,مذحج عبد الله بن حسين الأحمر
+Q16297599,Himyar Abdullah al-Ahmar,sibling,Q475105,Sadiq al-Ahmar
+Q16297599,Himyar Abdullah al-Ahmar,sibling,Q5644670,Hamid al-Ahmar
 Q16297809,مذحج عبد الله بن حسين الأحمر,father,Q307637,Abdullah ibn Husayn al-Ahmar
 Q16297809,مذحج عبد الله بن حسين الأحمر,sibling,Q16124826,Hashem Abdullah Hussain Al-Ahmar
 Q16297809,مذحج عبد الله بن حسين الأحمر,sibling,Q16127688,Hussain Abdullah Hussain al-Ahmar
-Q16297809,مذحج عبد الله بن حسين الأحمر,sibling,Q16297599,حمير عبد الله حسين الأحمر
+Q16297809,مذحج عبد الله بن حسين الأحمر,sibling,Q16297599,Himyar Abdullah al-Ahmar
 Q16297809,مذحج عبد الله بن حسين الأحمر,sibling,Q475105,Sadiq al-Ahmar
 Q16297809,مذحج عبد الله بن حسين الأحمر,sibling,Q5644670,Hamid al-Ahmar
 Q16297850,Yaser Ahmed Salem Al-awadhi,father,Q16119356,أحمد سالم أحمد عبد الله العواضي
@@ -31,7 +31,7 @@ Q4539761,Yahia Badreddin al-Houthi,sibling,Q26157431,Abdul Khaliq Al-Houthi
 Q475105,Sadiq al-Ahmar,father,Q307637,Abdullah ibn Husayn al-Ahmar
 Q475105,Sadiq al-Ahmar,sibling,Q16124826,Hashem Abdullah Hussain Al-Ahmar
 Q475105,Sadiq al-Ahmar,sibling,Q16127688,Hussain Abdullah Hussain al-Ahmar
-Q475105,Sadiq al-Ahmar,sibling,Q16297599,حمير عبد الله حسين الأحمر
+Q475105,Sadiq al-Ahmar,sibling,Q16297599,Himyar Abdullah al-Ahmar
 Q475105,Sadiq al-Ahmar,sibling,Q16297809,مذحج عبد الله بن حسين الأحمر
 Q475105,Sadiq al-Ahmar,sibling,Q5644670,Hamid al-Ahmar
 Q483672,Ali Abdullah Saleh,child,Q22683205,Khaled Ali Abdullah Saleh
@@ -51,7 +51,7 @@ Q483672,Ali Abdullah Saleh,spouse,Q108709828,Asma Saleh
 Q5644670,Hamid al-Ahmar,father,Q307637,Abdullah ibn Husayn al-Ahmar
 Q5644670,Hamid al-Ahmar,sibling,Q16124826,Hashem Abdullah Hussain Al-Ahmar
 Q5644670,Hamid al-Ahmar,sibling,Q16127688,Hussain Abdullah Hussain al-Ahmar
-Q5644670,Hamid al-Ahmar,sibling,Q16297599,حمير عبد الله حسين الأحمر
+Q5644670,Hamid al-Ahmar,sibling,Q16297599,Himyar Abdullah al-Ahmar
 Q5644670,Hamid al-Ahmar,sibling,Q16297809,مذحج عبد الله بن حسين الأحمر
 Q5644670,Hamid al-Ahmar,sibling,Q475105,Sadiq al-Ahmar
 Q59334743,Kboul Mutawakil,father,Q12240753,Mohammed Abdel malek al-mutawakel
