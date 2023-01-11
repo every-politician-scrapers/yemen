@@ -4,7 +4,7 @@
   "categories": [
     "Yemeni Zaydis",
     "Living people",
-    "Houthis",
+    "Houthi members",
     "1965 births",
     "People from Saada Governorate"
   ],
@@ -91,6 +91,10 @@
         }
       ],
       "templates": [
+        {
+          "description": "Houthi leader (born 1961)",
+          "template": "short description"
+        },
         {
           "birth_year": "1961",
           "template": "birth year and age"
@@ -249,7 +253,7 @@
           "template": "use dmy dates"
         },
         {
-          "template": "yemen-bio-stub"
+          "template": "yemen-politician-stub"
         },
         {
           "template": "meast-mil-bio-stub"
