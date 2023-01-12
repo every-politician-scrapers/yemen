@@ -1,30 +1,36 @@
 item,itemLabel,position,positionLabel,startDate,endDate,cabinet
 Q57373157,Maïn Abdelmalek Saïd,,Premier ministre,,,Q104601392
-,Manea Saleh,,Ministre de l'Électricité,,,Q104601392
-,Ibrahim Ali Ahmed Haidan,,Ministre de l'Intérieur,,,Q104601392
-,Muammar al-Iryani,,Ministre de l'Information,,,Q104601392
-Q16119688,Ahmed Awad ben Moubarak,,Ministre des Affaires étrangères,,,Q104601392
-,Abdelghani Jamil,,Ministre chargé de Sanaa,,,Q104601392
-Q21680111,Nayef al-Bakri,,Ministre de la Jeunesse et des Sports,,,Q104601392
-,Abdel Nasser Al-Wali,,Ministre de la Fonction publique et des Assurances,,,Q104601392
+,Manea Saleh,,Ministre de l'Électricité et de l'Énergie Ministère de l'Électricité et de l'Énergie (Yémen),,,Q104601392
+,Ibrahim Ali Ahmed Haidan,,Ministre de l'Intérieur (en),,,Q104601392
+,Muammar al-Iryani,,Ministre de l'Information Ministère de l'Information (Yémen),,,Q104601392
+Q16119688,Ahmed Awad ben Moubarak,,Ministre des Affaires étrangères Ministère des Affaires étrangères (Yémen),,,Q104601392
+,Abdelghani Jamil,,Ministre du Secrétariat de Sana'a,,,Q104601392
+Q21680111,Nayef al-Bakri,,Ministre de la Jeunesse et des Sports Ministère de la Jeunesse et des Sports (Yémen),,,Q104601392
+,Abdel Nasser Al-Wali,,Ministre des Services civils et de l'Assurance Ministère des Services civils et de l'Assurance (Yémen),,,Q104601392
 ,Mohammed Moqbel al-Himyari,,Ministre d'État aux Affaires parlementaires et au Conseil de la Choura,,,Q104601392
 ,Najib Mansour Al-Awj,,Ministre d'État Chargé du Dialogue national,,,Q104601392
-,Mohsen Mohammed Hussein al-Daeri,,Ministre de la Défense,,,Q104601392
-,Qassem Mohammad Qassem Baheeh,,Ministre de la Santé,,,Q104601392
-,Badr al-Ardah,,Ministre de la Justice,,,Q104601392
-,Khaled Al-Wasabi,,Ministre de l'Enseignement Supérieur et de la Recherche Scientifique,,,Q104601392
-,Salim Mohammed,,Ministre des Travaux publics et des Infrastructures,,,Q104601392
-,Muhammad Al-Zaouri,,Ministre des Affaires sociales et du Travail,,,Q104601392
-,Muammar al-Iryani,,Ministre du Tourisme,,,Q104601392
-,Said Suliman Barakat al-Shamasi,,Ministre du Pétrole et des Minéraux,,,Q104601392
-,Mohamed Ahmed Shabiba,,Ministre des Dotations religieuses et de l'Orientation,,,Q104601392
-,Salem Saleh Bin Braik,,Ministère des Finances,,,Q104601392
-,Salem Abdullah Issa Al-Soqotri,,Ministre de l'Agriculture et de l'Irrigation,,,Q104601392
-,Khaled Al-Wasabi,,Ministre de l'Enseignement technique et Professionnel,,,Q104601392
-,Marwan Damaj,,Ministre de la Culture,,,Q104601392
-,Abdel Salam Hamid,,Ministre des Transports,,,Q104601392
+,Mohsen Mohammed Hussein al-Daeri,,Ministre de la Défense (en),,,Q104601392
+,Qassem Mohammad Qassem Baheeh,,Ministre de la Santé Publique et de la Population Ministère de la Santé Publique et de la Population,,,Q104601392
+,Badr al-Ardah,,Ministre de la Justice Ministère de la Justice (Yémen),,,Q104601392
+,Khaled Al-Wasabi,,Ministre de l'Éducation Supérieure et de la Recherche Scientifique (Yémen) Ministère de l'Éducation Supérieure et de la Recherche Scientifique (Yémen),,,Q104601392
+,Salim Mohammed,,Ministre des Travaux publics et des Transports Ministère des Travaux publics et des Transports (Yémen),,,Q104601392
+,Muhammad Al-Zaouri,,Ministre des Affaires sociales et de Travail Ministère des Affaires sociales et de Travail (Yémen),,,Q104601392
+,Muammar al-Iryani,,Ministre du Tourisme Ministère du Tourisme (Yémen),,,Q104601392
+,Said Suliman Barakat al-Shamasi,,Ministre du Pétrole et des Minéraux Ministère du Pétrole et des Minéraux (Yémen),,,Q104601392
+,Mohamed Ahmed Shabiba,,Ministre des Dotations et de l'Orientation Ministère des Dotations et de l'Orientation (Yémen),,,Q104601392
+,Salem Saleh Bin Braik,,Ministre des Finances Ministère des Finances (Yémen),,,Q104601392
+,Salem Abdullah Issa Al-Soqotri,,Ministre de l'Agriculture et de l'Irrigation Ministère de l'Agriculture et de l'Irrigation (Yémen),,,Q104601392
+,Khaled Al-Wasabi,,Ministre de l'Éducation technique et professionnelle,,,Q104601392
+,Marwan Damaj,,Ministre de la Culture Ministère de la Culture (Yémen),,,Q104601392
+,Abdel Salam Hamid,,Ministre des Transports Ministère des Transports (Yémen),,,Q104601392
 ,Ahmed Mohamed Omar Orman,,Ministre des Droits de l'homme,,,Q104601392
 ,Abd Rabbo Saleh Aslami,,Ministre d'État,,,Q104601392
 ,Mohammed Abdallah Kouddah,,Ministre d'État,,,Q104601392
-,Ahmed Mohamed Omar Orman,,Ministre des Affaires juridiques,,,Q104601392
-,Hussein Abdul Rahman,,Ministre de l'Administration locale,,,Q104601392
+,Ahmed Mohamed Omar Orman,,Ministre des Affaires juridiques Ministère des Affaires juridiques (Yémen),,,Q104601392
+,Hussein Abdul Rahman,,Ministre de l'Administration locale Ministère de l'Administration locale (Yémen),,,Q104601392
+,Salem Abdullah Issa Al-Soqotri,,Ministre des Richesses de la pêche,,,Q104601392
+,Waed Abdullah Badhib,,Ministre de la Planification et de la Coopération internationale Ministère de la Planification et de la Coopération internationale (Yémen),,,Q104601392
+,Najib al-Awj,,Ministre des Télécommunications et de la Technologie de l'information Ministère des Télécommunications et de la Technologie de l'information (Yémen),,,Q104601392
+,Mohamed al-Ashwal,,Ministre de l'Industrie et du Commerce Ministère de l'Industrie et du Commerce (Yémen),,,Q104601392
+,Tawfiq al-Sharjabi,,Ministre de l'Eau et de l'Environnement Ministère de l'Eau et de l'Environnement (Yémen),,,Q104601392
+,Tareq Salem al-Abkari,,Ministre de l'Éducation Ministère de l'Éducation (Yémen),,,Q104601392
